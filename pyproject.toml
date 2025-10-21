@@ -3,7 +3,7 @@ name = "mcp"
 dynamic = ["version"]
 description = "Model Context Protocol SDK"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 authors = [{ name = "Anthropic, PBC." }]
 maintainers = [
     { name = "David Soria Parra", email = "davidsp@anthropic.com" },
